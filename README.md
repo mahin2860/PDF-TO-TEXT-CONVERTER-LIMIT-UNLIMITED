@@ -82,6 +82,7 @@ If AI cleanup fails, the default parsed output is still saved.
 
 - Keep `BATCH_SIZE` in `main.py` at a value suitable for your machine.
 - Output folders are created automatically when you run the pipeline.
+- `.gitkeep` files in `pdfs/`, `raw_text/`, `cleaned_text/`, and `json_output/` are placeholders so these otherwise empty folders remain visible on GitHub.
 
 ## Author
 
